@@ -2,6 +2,6 @@
 
 arquivo= open("db.csv","a")
 
-arquivo.write(input(\n"Animal: "))
+arquivo.write(input("Animal: "))
               
 arquivo.close()
